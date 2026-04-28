@@ -1,5 +1,9 @@
 ---
-title: "About This Website"
+title: "About Me"
 ---
 
-More about this website.
+Hi! I’m Joseph Lee, an MSPH candidate in Health Services Research at Emory graduating in May 2026 with a Certificate in Data Science.
+
+My background spans health research and analytics, program implementation and evaluation, policy development, and patient-facing care navigation. I've built reproducible pipelines; worked across claims, EHR, and multi-state survey data; ran analyses in R/Stata/Python/SQL; and translated results into concise technical briefs, visual summaries, and decision notes. I've also contributed to evidence reviews that supported federal health recommendations at CDC and learned the day-to-day realities of care through 2+ years of patient advocacy and case management as a Board-Certified Patient Advocate (BCPA). These experiences have given me a grounded view of health policy, payer/provider workflows and the everyday barriers patients face.
+
+What keeps me engaged is the intersection where data, operations, and policy meet—put to work for access and better care. I’m passionate about contributing to teams that use analytics practically (and creatively!) to improve healthcare programming, whether in consulting, health services research, or mission-driven operations.
