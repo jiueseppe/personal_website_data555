@@ -14,6 +14,10 @@ knitr::include_graphics("images/profile.jpg")
 
 ::: {.column width="50%" style="text-align: left;"}
 
-Add some text here describing yourself. Add a [link](https://google.com) so we can see behavior later. 
+Welcome! I’m Joseph Lee, an MSPH candidate at Emory interested in the space where health policy, data, and implementation meet.
+
+I created this site as a small portfolio of my graduate and professional work. My projects focus on questions of healthcare access, disability policy, behavioral health, and how data can be used to make programs and systems work better in practice.
+
+Feel free to explore my projects, read more about my background, or view my CV using the links above.
 
 :::
