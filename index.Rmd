@@ -18,6 +18,6 @@ Welcome! I’m Joseph Lee, an MSPH candidate at Emory interested in the space wh
 
 I created this site as a small portfolio of my graduate and professional work. My projects focus on questions of healthcare access, disability policy, behavioral health, and how data can be used to make programs and systems work better in practice.
 
-Feel free to explore my projects, read more about my background, or view my CV using the links above.
+Feel free to explore my [projects](projects.html), read more about my [background](about.html), or view my [CV](files/cv_full.pdf) using the links above.
 
 :::

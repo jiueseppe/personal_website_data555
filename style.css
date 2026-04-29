@@ -49,3 +49,38 @@ a:hover {
   margin-right: 8px;
   margin-top: 8px;
 }
+
+.about-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin: 28px 0;
+}
+
+.about-card {
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.about-card h3 {
+  margin-top: 0;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.about-card ul {
+  padding-left: 20px;
+}
+
+.about-card li {
+  margin-bottom: 8px;
+}
+
+@media (max-width: 900px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+  }
+}
