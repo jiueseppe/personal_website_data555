@@ -19,6 +19,8 @@ navbar:
     icon: fa-github
   - href: mailto:joseph.lee3@emory.edu
     icon: fa-envelope
+  - href: https://www.linkedin.com/in/joseph-lee-bcpa-56781b233/
+    icon: fa-linkedin
 output_dir: docs
 output:
   html_document:
